@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on school PM2 project - Time capsules<br>
+🔭 I am currently working on school PM2 project - Time capsules<br>
 
 
 ## 🌐 Socials:
